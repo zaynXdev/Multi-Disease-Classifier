@@ -1,3 +1,6 @@
-flask
-pandas
-scikit-learn
+flask==2.3.2
+flask-cors==3.0.10
+scikit-learn==1.7.1
+joblib==1.2.0
+numpy>=1.26.0
+

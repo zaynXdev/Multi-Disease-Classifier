@@ -15,6 +15,7 @@ def explore_dataset(path, name):
     print("\n")
     print("\nInfo:")
     print(df.info())
+
     print("\n")
     print("\nDescribe:")
     print(df.describe())
@@ -26,7 +27,7 @@ def explore_dataset(path, name):
     print("\n")
     print(f"Columns: {list(df.columns)}")
     print("\n")
-    # Unique targets/classes (edit 'target' as per your column)
+
     if 'target' in df.columns:
         print("Unique classes in target:", df['target'].unique())
     elif 'Outcome' in df.columns:
