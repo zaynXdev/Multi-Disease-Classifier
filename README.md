@@ -193,11 +193,6 @@ git push -u origin main
 Created by Zayn.  
 Please report issues, suggest improvements, or open Pull Requests via GitHub.
 
----
-
-## License
-
-Specify your license here (e.g., MIT License).
 
 ---
 
