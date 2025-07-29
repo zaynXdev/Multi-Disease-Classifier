@@ -1,3 +1,4 @@
+```
 # Multi-Disease Classifier
 
 ## Overview
@@ -171,13 +172,14 @@ python -m pip install --upgrade pip setuptools wheel
 - Use PyCharm Git integration or terminal commands to add, commit, and push your code.
 - Typical terminal commands to push your project:
 
+```
 git init # (only once)
 git add .
 git commit -m "Initial commit with full project"
 git remote add origin https://github.com/yourusername/yourrepo.git
 git branch -M main
 git push -u origin main
-
+```
 
 ---
 
@@ -199,3 +201,4 @@ Please report issues, suggest improvements, or open Pull Requests via GitHub.
 ---
 
 Thank you for using the Multi-Disease Classifier project! Your feedback and contributions are welcome
+```
