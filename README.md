@@ -102,6 +102,7 @@ Send POST requests with JSON payloads to `/predict` endpoint:
 - **Method:** POST  
 - **Example JSON Payload:**
 
+```
 {
 "heart": {
 "age": 63,
@@ -132,7 +133,7 @@ Send POST requests with JSON payloads to `/predict` endpoint:
 "probability": [0.7, 0.3]
 }
 }
-
+```
 
 
 ## Code Highlights
