@@ -14,6 +14,7 @@ This project implements a **Multi-Disease Classifier** that predicts risks of **
 
 ## Project Structure
 
+```
 MultiDiseaseClassifier/
 ├── data/                 # Original datasets (heart.csv, diabetes.csv)
 ├── models/               # Saved ML model files (*.pkl)
@@ -26,7 +27,7 @@ MultiDiseaseClassifier/
 │       └── index.html    # HTML form frontend
 ├── requirements.txt      # Python dependencies
 └── README.md             # This documentation file
-
+```
 
 
 ## Setup Instructions
