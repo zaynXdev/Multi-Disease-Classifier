@@ -1,4 +1,4 @@
-```
+
 # Multi-Disease Classifier
 
 ## Overview
@@ -161,8 +161,9 @@ Send POST requests with JSON payloads to `/predict` endpoint:
 - Restart your terminal or IDE after installation.
 - Upgrade pip tools with:
 
+```
 python -m pip install --upgrade pip setuptools wheel
-
+```
 
 - For stubborn issues, use precompiled wheels from:  
   [https://www.lfd.uci.edu/~gohlke/pythonlibs/](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
@@ -201,4 +202,4 @@ Please report issues, suggest improvements, or open Pull Requests via GitHub.
 ---
 
 Thank you for using the Multi-Disease Classifier project! Your feedback and contributions are welcome
-```
+
