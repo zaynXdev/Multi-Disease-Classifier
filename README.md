@@ -184,15 +184,6 @@ git push -u origin main
 
 ---
 
-## Extending with NLP
-
-- NLP code from notebooks can be modularized into a new module (e.g., `nlp_utils.py`).
-- Add text-processing endpoints in `app.py` to accept free text inputs.
-- Use NLP results as features or separate predictions.
-- Update frontend to accept textual symptom descriptions.
-
----
-
 ## Contact & Contribution
 
 Created by Zayn.  
