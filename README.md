@@ -15,17 +15,17 @@ This project implements a **Multi-Disease Classifier** that predicts risks of **
 ## Project Structure
 
 MultiDiseaseClassifier/
-├── data/ # Original datasets (heart.csv, diabetes.csv)
-├── models/ # Saved ML model files (*.pkl)
+├── data/                 # Original datasets (heart.csv, diabetes.csv)
+├── models/               # Saved ML model files (*.pkl)
 ├── src/
-│ ├── utils.py # Helper functions for feature selection, data processing
-│ ├── train_models.py # Script for training models on selected features
-│ ├── predict_models.py # Functions to load models and predict given feature data
-│ ├── app.py # Flask API server and frontend app
-│ └── templates/
-│ └── index.html # HTML form frontend
-├── requirements.txt # Python dependencies
-└── README.md # This documentation file
+│   ├── utils.py          # Helper functions for feature selection, data processing
+│   ├── train_models.py   # Script for training models on selected features
+│   ├── predict_models.py # Functions to load models and predict given feature data
+│   ├── app.py            # Flask API server and frontend app
+│   └── templates/
+│       └── index.html    # HTML form frontend
+├── requirements.txt      # Python dependencies
+└── README.md             # This documentation file
 
 
 
